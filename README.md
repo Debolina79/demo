@@ -46,3 +46,4 @@ Once the user clicks a product image, the image will go to the server and k-numb
 ![Example Results](server/static/images/result2.jpg)
 
 # demo
+# lol
